@@ -58,5 +58,5 @@ app.use('/api', require('./routes/categoryRouter'))
 
  
 app.listen(port, () => {
-    console.log(`Server is   running  on .....: ${port}`);
+    console.log(`Server is   running  on .: ${port}`);
 });
